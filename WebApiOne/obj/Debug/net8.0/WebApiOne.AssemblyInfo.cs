@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiOne")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5c4c7994c46b5aba94da4823e511b270f33e296")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiOne")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiOne")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
